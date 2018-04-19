@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 image: /assets/img/about.jpg
 ---
